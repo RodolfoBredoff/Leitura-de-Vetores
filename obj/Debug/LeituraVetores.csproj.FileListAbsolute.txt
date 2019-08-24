@@ -1,0 +1,10 @@
+C:\Users\Rodolfo Soares\source\repos\LeituraVetores\bin\Debug\LeituraVetores.exe.config
+C:\Users\Rodolfo Soares\source\repos\LeituraVetores\bin\Debug\LeituraVetores.exe
+C:\Users\Rodolfo Soares\source\repos\LeituraVetores\bin\Debug\LeituraVetores.pdb
+C:\Users\Rodolfo Soares\source\repos\LeituraVetores\obj\Debug\LeituraVetores.csprojAssemblyReference.cache
+C:\Users\Rodolfo Soares\source\repos\LeituraVetores\obj\Debug\LeituraVetores.Form1.resources
+C:\Users\Rodolfo Soares\source\repos\LeituraVetores\obj\Debug\LeituraVetores.Properties.Resources.resources
+C:\Users\Rodolfo Soares\source\repos\LeituraVetores\obj\Debug\LeituraVetores.csproj.GenerateResource.cache
+C:\Users\Rodolfo Soares\source\repos\LeituraVetores\obj\Debug\LeituraVetores.csproj.CoreCompileInputs.cache
+C:\Users\Rodolfo Soares\source\repos\LeituraVetores\obj\Debug\LeituraVetores.exe
+C:\Users\Rodolfo Soares\source\repos\LeituraVetores\obj\Debug\LeituraVetores.pdb
